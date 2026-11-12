@@ -85,9 +85,6 @@ My goal is to become a strong backend developer first, then deepen my knowledge 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=freska2234&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freska2234&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=freska2234&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>

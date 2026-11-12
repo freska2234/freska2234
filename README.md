@@ -1,7 +1,7 @@
 <!-- غيّر كل freska2234 و YOUR_NAME وباقي الـ placeholders -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hi%20there%2C%20I'm%20YOUR_NAME&fontSize=36&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hi%20there%2C%20I'm%20Mahmoud_Saad&fontSize=36&fontAlignY=35" alt="banner" />
 </p>
 
 <p align="center">
